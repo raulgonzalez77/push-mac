@@ -13,4 +13,4 @@ webpush.setVapidDetails(
 );
 
 // This is the same output of calling JSON.stringify on a PushSubscription
-const pushSubscription = {"endpoint":"https://fcm.googleapis.com/fcm/send/fWuKUEPcD8U:APA91bF360nY6OyJgd0EfgdnJJgsKoof8hysVECCWh8cyiXb03SJEPGc0hX0dWGX4o27UXunebklcsGsatS5-f3I_Dmy13Ed7RkHK5DubA5PUaUt34DEGkvfKCfaBis-NStMkPH_DE30","expirationTime":null,"keys":{"p256dh":"BAERVGskrZQdIDXIzTVOm8zuwylglCwZ_bF7tmKm10w9g36z3_yCCbjeXcmhGFvf0E6wyGge1CEgIIuVXml5NGY","auth":"48b8uYCuAuJvtr6e-CvSUg"}}
+const pushSubscription = {"endpoint":"https://fcm.googleapis.com/fcm/send/fwgEVvJ1RE4:APA91bH-JZcANkgu8KgnZT41OA41skQJ-SQyk-4SxsAhSZ3VLNJOwoWwcwSwO264EEe2nEEJgwKkKaS6xU3iTeKH5yQt61pFymOLipYCHTdj4IElBWHmExgM3DPPWhtC7NU6VMiF3GXl","expirationTime":null,"keys":{"p256dh":"BJB5jBsLsWf_yJQN0dGirgO0-UjbmKUllqf4U1QW1hsqFspzcbJCMraJrhK5aPe4joxXODDOXq7SAPBqHb_TUXQ","auth":"4aIya2I14fWAIq8OS6F_-A"}}
